@@ -1,4 +1,4 @@
-# chatbot-gemini
+README.md
 # 🤖 AI Career Assistant (CLI-Based)
 
 An intelligent AI-powered assistant built with **Gemini**, **LangChain**, and **Pinecone** that helps users explore tech job opportunities and cost-of-living info across cities — while remembering your conversations across sessions. Designed to run via **Command-Line Interface (CLI)** with persistent memory and real-time API integrations.
